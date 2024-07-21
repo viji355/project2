@@ -1,0 +1,248 @@
+body
+{
+background-color:#FAFAD2;
+margin-top:0px;
+margin-bottom:0px;
+padding-left:50px;
+padding-right:50px;
+padding-top:20px;
+padding-bottom:30px;
+}
+#header
+{
+	Background-color:		#F5DEB3;
+	padding:20px; /*tpo, left, bottom, right */
+	height:200px;
+}
+	
+#header img
+{
+
+}
+#header h1
+{
+	margin-left:420px;
+	font-size:40px;
+	margin-top:-70px;
+	height:80px;
+}
+#header h3
+{   
+    margin-top:-90px;    
+	margin-left:510px;
+	
+}
+#menu{
+	margin-left:600px;
+	
+}
+#banner
+{
+	background-color:#BC8F8F;
+	height:30px;
+	padding-top:1px;
+	padding-bottom:-1px;
+	
+	
+}
+#banner p{
+	margin-top:10px;
+	
+}
+#body{
+	background-color:#F5DEB3;
+	margin-top:-30px;
+	height:550px;
+	
+	
+}
+#body p
+{
+	font-size:30px;
+	padding:20px;
+}
+#body img{
+padding-left:20px;
+margin-top:-30px;
+}	
+#body li
+{
+	padding-left:20px;
+	list-style-type:none;
+	font-size:20px;
+}
+#footer
+{
+	background-color:#BC8F8F;
+	height:40px;
+	text-align:center;
+	padding-top:20px;
+}
+#tt
+{
+	float:right;
+	margin-top: -399px;
+}
+
+#image
+{
+	float:right;
+	margin-top:-250px;
+}
+#menu ul
+{
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #F5DEB3;
+	height:60px;
+	width:400px;
+	margin-left:-40px;
+		
+}
+#menu ul li
+{
+	display:inline-block;
+	padding:10px 15px;
+	
+	
+}
+# menu ul li a:hover
+{
+	background-color:black;
+}
+#uu
+{
+	background-color:#F5DEB3;
+	height:535px;
+	
+}
+#yy
+{
+	background-color:#F5DEB3;
+	height:500px;
+	margin-top:-22px;
+	
+}
+#yy p{
+	font-size:16px;
+	margin-top:20px;
+    
+}
+#para
+{
+	border:solid black 1px;
+	list-style-type:none;
+	padding-left:20px;
+	padding-right:20px;
+	font-size:17px;
+}
+#para p
+{
+	text-align:center;
+	font-family:italic;
+}
+#feed
+{
+	background-color:#F5DEB3;
+	margin-top:px;
+	padding:100px;
+	
+	
+}
+#list{
+	background-color:#F5DEB3;
+	height:500px;
+	padding:20px;
+}
+#thank
+{
+	float:right;
+	margin-top:-500px;
+	padding-right:100px;
+	
+}
+#front
+{
+	float:right;
+	margin-top:-550px;
+	margin-right:160px;
+}
+#text{
+	text-align:center;
+}
+#order
+{
+	 background-color:#F5DEB3;
+	 margin-top:-19px;
+	 
+}
+#order h3{
+	text-align:center;
+}
+#chinese
+{
+	float:right;
+	margin-top:-520px;
+	margin-right:450px;
+}
+#salad
+{
+	float:right;
+	margin-top:-520px;
+	margin-right:20px;
+	
+}
+#ux
+{
+	background-color:#F5DEB3;
+	text-align:center;
+	height:350px;
+	padding-top:30px;
+}
+#last
+{
+	float:right;
+	margin-top:-535px;
+}
+#final
+{
+	float:right;
+	margin-top:-240px;
+}
+#maths
+{
+	
+	text-align:center;
+	margin-top:-500px;
+}
+#omg
+{
+	background-color:#F5DEB3;
+	
+	
+}
+#www
+{
+	margin-top:-80px;
+	margin-right:20px;	
+	float:right;
+}
+#iii
+{
+	float:right;
+	margin-top:-20px;
+}
+#zzz
+{
+	margin-top:-120px;
+	margin-right:45px;
+	float:right;
+}
+#kml
+{
+	margin-top:-60px;
+	float:right;
+	margin-right:30px;
+}
